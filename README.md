@@ -1,5 +1,5 @@
 # Language Resources
-Web resources for language learning
+Resources for language learning.
 
 
 ## Indo-German Languages
