@@ -1,4 +1,4 @@
-# language-resources
+# Language Resources
 Web resources for language learning
 
 
