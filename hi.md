@@ -9,6 +9,10 @@ Hindi is an Indo-European language written in the Devanagari script. Hindi is ma
 * [A Door Into Hindi](https://taj.oasis.unc.edu/) Another Hindi learning site.
 * [Mango Languages](https://mangolanguages.com/) Commercial Hindi learning site.
 
+## Learning Community
+
+* [italki](https://www.italki.com/) Language partners and teachers.
+
 ## News
 
 * [BBC Hindi](https://www.bbc.com/hindi) BBC news in Hindi.
