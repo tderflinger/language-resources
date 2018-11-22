@@ -19,4 +19,4 @@ Hindi is an Indo-European language written in the Devanagari script. Hindi is ma
 
 ## Dictionaries
 
-* [https://www.shabdkosh.com/](Shabdkosh Dictionary) Free English Hindi dictionary (with ads).
+* [Shabdkosh Dictionary](https://www.shabdkosh.com/) Free English Hindi dictionary (with ads).
