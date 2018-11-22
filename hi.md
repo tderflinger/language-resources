@@ -24,4 +24,4 @@ Hindi is an Indo-European language written in the Devanagari script. Hindi is ma
 
 
 ## Books
-* Hindi & Urdu Phrasebook, Lonely Planet Publications Pty Ltd, 2nd edition, Richard Delacy
+* Hindi & Urdu Phrasebook, Richard Delacy, Lonely Planet Publications Pty Ltd, 2nd edition 
