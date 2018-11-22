@@ -12,7 +12,6 @@ Hindi is an Indo-European language written in the Devanagari script. Hindi is ma
 
 * [BBC Hindi](https://www.bbc.com/hindi) BBC news in Hindi.
 
-
 ## Knowledge
 
 * [Wikipedia in Hindi](https://hi.wikipedia.org) Wikipedia with over 100,000 articles in Hindi.
@@ -21,3 +20,7 @@ Hindi is an Indo-European language written in the Devanagari script. Hindi is ma
 
 * [Shabdkosh Dictionary](https://www.shabdkosh.com/) Free English Hindi dictionary (with ads).
 * [Glosbe Wörterbuch](https://de.glosbe.com/de/hi/) Free German Hindi dictionary (with ads).
+
+
+## Books
+* Hindi & Urdu Phrasebook, Lonely Planet Publications Pty Ltd, 2nd edition, Richard Delacy
