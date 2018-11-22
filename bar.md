@@ -11,3 +11,7 @@ Worldwide, about 14 million people speak Bavarian. The Bavarian language is thre
 ## Knowledge
 
 * [Wikipedia in Bavarian](https://bar.wikipedia.org/)
+
+## Books
+
+* Hubers Bairische Wortkunde, Gerald Huber, Volk Verlag München, 2017
