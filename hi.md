@@ -7,3 +7,16 @@ Hindi is an Indo-European language written in the Devanagari script. Hindi is ma
 * [Duolingo](https://www.duolingo.com/) Duolingo has a free web course of Hindi (with ads).
 * [Learning Hindi](http://www.learning-hindi.com) Great free web course of Hindi.
 * [A Door Into Hindi](https://taj.oasis.unc.edu/) Another Hindi learning site.
+
+## News
+
+* [BBC Hindi](https://www.bbc.com/hindi) BBC news in Hindi.
+
+
+* Knowledge
+
+* [Wikipedia in Hindi](https://hi.wikipedia.org) Wikipedia with over 100,000 articles in Hindi.
+
+## Dictionaries
+
+* [https://www.shabdkosh.com/](Shabdkosh Dictionary) Free English Hindi dictionary (with ads).
