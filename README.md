@@ -2,6 +2,7 @@
 Web resources for language learning
 
 
-## Asian Languages
+## Indo-German Languages
 
+* [Bavarian](./bar.md)
 * [Hindi](./hi.md)
