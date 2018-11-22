@@ -2,7 +2,7 @@
 Resources for language learning.
 
 
-## Indo-German Languages
+## Indo-European Languages
 
 * [Bavarian](./bar.md)
 * [Hindi](./hi.md)
